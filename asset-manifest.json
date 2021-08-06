@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adithya-p-123.github.io/csb-5g9vc/static/css/main.66429807.chunk.css",
+    "main.js": "https://adithya-p-123.github.io/csb-5g9vc/static/js/main.3caab509.chunk.js",
+    "main.js.map": "https://adithya-p-123.github.io/csb-5g9vc/static/js/main.3caab509.chunk.js.map",
+    "runtime-main.js": "https://adithya-p-123.github.io/csb-5g9vc/static/js/runtime-main.5c17b053.js",
+    "runtime-main.js.map": "https://adithya-p-123.github.io/csb-5g9vc/static/js/runtime-main.5c17b053.js.map",
+    "static/js/2.6cfcd64d.chunk.js": "https://adithya-p-123.github.io/csb-5g9vc/static/js/2.6cfcd64d.chunk.js",
+    "static/js/2.6cfcd64d.chunk.js.map": "https://adithya-p-123.github.io/csb-5g9vc/static/js/2.6cfcd64d.chunk.js.map",
+    "index.html": "https://adithya-p-123.github.io/csb-5g9vc/index.html",
+    "static/css/main.66429807.chunk.css.map": "https://adithya-p-123.github.io/csb-5g9vc/static/css/main.66429807.chunk.css.map",
+    "static/js/2.6cfcd64d.chunk.js.LICENSE.txt": "https://adithya-p-123.github.io/csb-5g9vc/static/js/2.6cfcd64d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c17b053.js",
+    "static/js/2.6cfcd64d.chunk.js",
+    "static/css/main.66429807.chunk.css",
+    "static/js/main.3caab509.chunk.js"
+  ]
+}
